@@ -1,0 +1,12 @@
+sentence-transformers
+transformers
+torch
+torchvision
+pillow
+qdrant-client
+python-dotenv
+pandas
+tqdm
+deep-translator
+scikit-learn
+ollama
