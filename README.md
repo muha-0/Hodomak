@@ -9,6 +9,11 @@ It combines **computer vision**, **NLP**, and **vector search** to retrieve the 
 
 ---
 
+## **Demo Video**
+https://drive.google.com/file/d/1hEdpeO1DEiZ9I7UzVi_SSUTF8qZjXuxk/view?usp=sharing
+
+---
+
 ## Key Features
 
 ### **Multimodal Retrieval**
